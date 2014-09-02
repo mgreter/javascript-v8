@@ -1,6 +1,7 @@
 #ifndef _V8Context_h_
 #define _V8Context_h_
 
+#include <iostream>
 #include <v8.h>
 
 #include <vector>

@@ -3,8 +3,6 @@
 #include <pthread.h>
 #include <time.h>
 
-#include <sstream>
-
 #ifndef INT32_MAX
 #define INT32_MAX 0x7fffffff
 #define INT32_MIN (-0x7fffffff-1)
