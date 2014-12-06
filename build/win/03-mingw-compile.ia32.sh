@@ -6,7 +6,7 @@ cp ./mingw-generate-makefiles.ia32.sh v8/tools/
 cd v8
 
 export GYPFLAGS="--no-parallel"
-./tools/mingw-generate-makefiles.sh
+./tools/mingw-generate-makefiles.ia32.sh
 
 cd out
 
